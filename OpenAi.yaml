@@ -1,21 +1,21 @@
 # > OpenAI
 # >> OpenAI Challenge & SSO
-DOMAIN-SUFFIX,auth0.com,OpenAI
-DOMAIN,challenges.cloudflare.com,OpenAI
+DOMAIN-SUFFIX,auth0.com
+DOMAIN,challenges.cloudflare.com
 
 # >> OpenAI Related
-DOMAIN-SUFFIX,ai.com,OpenAI
-DOMAIN-SUFFIX,openai.com,OpenAI
-DOMAIN-SUFFIX,sentry.io,OpenAI
-DOMAIN-SUFFIX,intercom.io,OpenAI
-DOMAIN-SUFFIX,identrust.com,OpenAI
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,identrust.com
 
 # >> OpenAI CDN
-DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net,OpenAI
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net,OpenAI
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 
 # >> OpenAI Other
-DOMAIN-SUFFIX,challenges.cloudflare.com,OpenAI
-DOMAIN-SUFFIX,invoice.stripe.com,OpenAI
-DOMAIN-SUFFIX,stripe.com,OpenAI
-DOMAIN-SUFFIX,poe.com,OpenAI
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,invoice.stripe.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,poe.com
